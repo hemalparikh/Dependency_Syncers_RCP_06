@@ -9,17 +9,38 @@
 
 1. Home Screen :
 
+<img width="381" height="740" alt="image" src="https://github.com/user-attachments/assets/95d26342-2a04-4625-bacb-1ecfd05682e2" />
+
+
 2. Tyre Analyzer : 
 
 * Before :
 
+<img width="378" height="748" alt="image" src="https://github.com/user-attachments/assets/b3f3394f-96a1-4259-beaa-729ec6b64b5b" />
+
+
 * After : 
+
+<img width="366" height="744" alt="image" src="https://github.com/user-attachments/assets/8f349cb7-9e7d-48aa-bf2e-8f025440f741" />
+
 
 3. Tyre Predictor :
 
 *Before :
 
+<img width="375" height="746" alt="image" src="https://github.com/user-attachments/assets/5037efbb-0188-4527-80e3-3214d4ed1452" />
+
+
 *After:
+
+<img width="382" height="744" alt="image" src="https://github.com/user-attachments/assets/1df88a2e-5607-4c3c-8c80-8ccaf47cd656" />
+
+4. Smart Routing :
+
+<img width="428" height="795" alt="image" src="https://github.com/user-attachments/assets/4eb05bcd-cd1a-4b1b-8fd8-6b71b0499208" />
+
+<img width="431" height="791" alt="image" src="https://github.com/user-attachments/assets/15923c8f-ea7e-4490-b8fe-0e1d6e79f16c" />
+
 
 4. Demo Video : 
 
